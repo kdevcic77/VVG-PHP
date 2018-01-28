@@ -1,0 +1,6 @@
+lozinka za kreiranog usera u aplikaciji
+user: kdevcic
+pass: kdevcic
+
+github profil:
+https://github.com/kdevcic77/VVG-PHP
